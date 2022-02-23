@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Half a sheet of Mr. Humfrey's, in pursuance of pacification</title>
+            <author>Humfrey, John, 1621-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45128</idno>
+            <idno type="STC">Wing H3678A</idno>
+            <idno type="STC">ESTC R218455</idno>
+            <idno type="EEBO-CITATION">99830045</idno>
+            <idno type="PROQUEST">99830045</idno>
+            <idno type="VID">34493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2031:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Half a sheet of Mr. Humfrey's, in pursuance of pacification</title>
+                  <author>Humfrey, John, 1621-1719.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Sep. 1st. 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Humfrey.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of the original in the Bamburgh Castle Library, Lampeter, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Williams, Daniel, 1643?-1716. --  Gospel truth stated] --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34493:1"/>
+            <head>Half a Sheet of Mr <hi>Humfrey</hi>'s, in Purſuance of PACIFICATION.</head>
+            <p>THERE is a Book of Mr <hi>Williams</hi>'s, call'd, <hi>Goſpel Truth stated,</hi> from whence Occaſion hath been taken for Diviſion. It is a good Book, a uſeful Book, eſpe<g ref="char:EOLhyphen"/>cially for young Miniſters, and ſuch of the People, who being a little Learned, or Bookiſh, turn Diſputative, to ſave them from Error. I do therefore thank him for it, and eſpecially for what he hath ſaid on <hi>Phil.</hi> 3. and that he hath abided by it. It is what I ſaid in my Sheet of <hi>Juſtification</hi> in the firſt Edition, ſo many Years agoe, and Sir <hi>Charles Woleſley</hi> after me. I have read his Book over and over, and conſidering the multi<g ref="char:EOLhyphen"/>tude of matters, with common Allowance to Human Frailty, I can find few Faults in compariſon, and ſhould have found none had I not already, unleſs this be one. That he hath got ſo many Hands to it; or, which is worſe, that when his Book was ſufficient for its own defence, he ſhould, upon the writing of one againſt it, go to vindicate it. If he had not wrote again, he had then overcome; but is overcome now if he don't. In this Book there are two Expreſſions which the Brethren would have him retract: One is, <hi>There is not a Change of Perſon between Chriſt and the Elect.</hi> The other is, <hi>The Father was never diſplea<g ref="char:EOLhyphen"/>ſed with Chriſt.</hi> I will humbly motion here a drawn Battel, or mutual Condeſcention; that is, for Mr <hi>Williams</hi> to withdraw one of theſe Paſſages they except againſt; and, for the Brethren to withdraw the other Exception.</p>
+            <p>As for the firſt Paſſage, whatſoever is to be underſtood by <hi>Commutation of Perſons,</hi> the Brethren underſtand thus much, That Chriſt <hi>put on the Perſon of Sinners,</hi> for theſe are their Words. Now Mr <hi>Williams,</hi> I ſuppoſe, denies this, and they would have him retract his Denial. By <hi>Perſon</hi> therefore we are to conſider, that two things may be ſignified, the Per<g ref="char:EOLhyphen"/>ſon of the Sinner himſelf, <hi>Suppoſitum rationale;</hi> or the <hi>Quality</hi> or <hi>Condition</hi> of a Sinner, as, when a Man acts a Drunkard on the Stage, he perſonates Drunkenneſs, if a King, he perſonates Majeſty. Chriſt, GOD-Man, ſtood in the room of us Sinners, in what he did and ſuffer'd for us, <hi>quatenus</hi> He and we are <hi>Suppoſita rationalia,</hi> and in this firſt ſence of the word Mr <hi>Williams</hi> allows a <hi>Commutation of Perſons,</hi> ſo as when the <hi>Suffering</hi> was <hi>Chriſt's,</hi> the <hi>Bene<g ref="char:EOLhyphen"/>fit</hi> was <hi>Ours,</hi> which is that <hi>Grotius</hi> intends only againſt the <hi>Socinians.</hi> But Mr <hi>Williams</hi> denies that Chriſt took upon him the <hi>Quality</hi> or <hi>Condition</hi> of Sinners; that is, in the ſecond ſence of the word, he denies what they affirm, to wit, That <hi>He put on the Perſon of Sinners.</hi> Chriſt did not repreſent or act the part of Sinners, nor was look'd on by God as a Sinner, when our Surety: A <hi>commutatio Hominum</hi> there was, no <hi>commutatio Actionum.</hi> He repreſen<g ref="char:EOLhyphen"/>ted <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> that are Sinners, he repreſented not <hi>the Sinner.</hi> A Sinner is one that breaks the Law of God, and Chriſt did not ſo, he acted no ſuch Part, and God never accounted that he did; and there is therefore no <hi>change of</hi>
+               <note n="*" place="margin">The diſtincti<g ref="char:EOLhyphen"/>on of theſe terms is not made or<g ref="char:EOLhyphen"/>dinarily by Di<g ref="char:EOLhyphen"/>vines. (which excuſes the Bre<g ref="char:EOLhyphen"/>threns Citation of one for the other) but <hi>I</hi> uſe it as peculiar for explaining Mr <hi>Williams</hi>'s Sence: if any ſhall still chuſe to confound them, and ex<g ref="char:EOLhyphen"/>preſs our Sence otherwiſe, it is all one to me, and may be to him.</note> 
+               <hi>Perſon,</hi> though a change of <hi>Perſons,</hi> according to Mr. <hi>Williams.</hi> When in this ſence therefore of the word <hi>Perſon</hi> he is in the right, let us con<g ref="char:EOLhyphen"/>ſider further as to the other ſence of it, (as it ſignifies our Human Nature, not our Sinful Nature, or Sinful Qualities) that tho' Chriſt did <hi>ſuſtain our Perſons</hi> (giving the Brethren li<g ref="char:EOLhyphen"/>berty of ſuch words) as to what he did and ſuffer'd in our ſtead, yet is there nothing where<g ref="char:EOLhyphen"/>in we reciprocally <hi>ſuſtain his Perſon,</hi> as he did <hi>ours;</hi> nothing that we are to be ſaid or ac<g ref="char:EOLhyphen"/>counted to have done what he did; and therefore do I in my late Book, <hi>Pacification,</hi> ſay, That here is only a change of <hi>Perſon,</hi> but not of <hi>Perſons.</hi> A ſtrange thing really, that when the ſame ſence is intended by me and Mr <hi>Williams,</hi> the ſame Diſtinction uſed, and both ſay true, yet the Terms of that Diſtinction are contrarily apply'd by us. I muſt deſire Mr <hi>Wil<g ref="char:EOLhyphen"/>liams</hi> therefore to conſider, whether his uſe of the word <hi>Perſon</hi> be not<note n="†" place="margin">As they ſpeak of Chriſt's <hi>ju<g ref="char:EOLhyphen"/>dicially ſuſtai<g ref="char:EOLhyphen"/>ning our Per<g ref="char:EOLhyphen"/>ſon,</hi> for in this ſecond ſence of the word <hi>Per<g ref="char:EOLhyphen"/>ſon,</hi> (or Mr <hi>Williams</hi>'s ſence) Chriſt acted no Perſon but the Perſon of a <hi>Mediator.</hi>
+               </note> Foreign to our Di<g ref="char:EOLhyphen"/>vines, and it were not better to put what he means in ſuch Terms as are eaſier of reception, and that may be only by diſtinguiſhing of Chriſt's taking on him our Perſons, or bearing our Sins, in regard to the <hi>Fault,</hi> or the <hi>Puniſhment;</hi> and to ſay, he ſuſtained not our Perſons, or took on him our Sins <hi>quoad reatum culpae</hi> (in theſe known words) ſo as to be accounted of God a Sinner; but <hi>quoad reatum poenae propter culpam noſtram,</hi> ſo only as voluntarily oblig'd to our Puniſhment. Here is the ſame thing in ſence, and if ſo good an end as Re-union might be obtained by it, he may (underſtanding with me) retract the words in his Book <hi>[There is not a change of Perſon]</hi> and grant a <hi>change of Perſon,</hi> ſo long as he maintains ſtill with me no <hi>change of Perſons,</hi> for his buſineſs is done thereby as well as by his ſticking to a <hi>Word.</hi> The Lord Jeſus, in what he did and ſuffer'd for us, <hi>ſuſtained our Perſons,</hi> (I give way to ſuch Phraſes for Peace) inſomuch as we ſtill ſay, That what he did and ſuffer'd for us was accounted by God as done and ſuffer'd in our room, that we might have the benefit of it; but not accounted by him as if we had done and ſuffer'd in Chriſt's Perſon what he did and ſuffer'd for us; and ſo, in that reſpect, is there a <hi>change of Perſon,</hi> but not of <hi>Per<g ref="char:EOLhyphen"/>ſons;</hi> whereby I mean plainly, not ſuch a change as to make Chriſt's Righteouſneſs <hi>Legally</hi> or in Law-ſence <hi>Ours</hi> (or to be imputed <hi>in ſe,</hi> for that, let Mr <hi>Williams</hi> know, is all one), which whoever affirms (without Shifts), let him be as great in our eſteem as he will, I ſay, he ſpeaks it in Ignorance hitherto of what this draws after it, To wit, that (beſides the Conſequences I ſhew, <hi>Pacif. p.</hi> 36.) he makes us to be juſtified by Chriſt's Righteouſneſs, <hi>per modum cauſae formalis,</hi> which is an unadviſed, abſurd, and dangerous Poſition, as that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of our former great Divines, which gave the riſe to <hi>Antinomianiſm.</hi> Be it known therefore to the deſervedly-beloved Dr. <hi>Bates,</hi> and the deſervedly envied Mr. <hi>Williams,</hi> (for there muſt be
+<pb facs="tcp:34493:2"/>
+               <hi>ſomething</hi> overtopping others in the man, <hi>which</hi> is envied), and the worthy Brethren th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drew, or ſigned this Paper, that here is the Point which (I believe) they have not bent the Minds to ſearch into, ſo far as to be willing to ſpeak out, and tell me if I ask, When Fait<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is our Evangelical Perſonal Righteouſneſs, does concurr ſome way with the Right<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ouſneſs of Chriſt to our Juſtification, and Chriſt's Righteouſneſs (we know) does concu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>ſub genere cauſae Efficientis procatar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ticae</hi> (and <hi>Materialis</hi> alſo with Mr <hi>Baxter</hi>) <hi>per modum M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>riti,</hi> and no otherwiſe: What is then, let any one of them tell me, <hi>That</hi> wherein the <hi>form<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cauſe</hi> or <hi>Reaſon</hi> of Juſtification is to be placed, or can Juſtification be, or <hi>conſtare,</hi> without<note n="‖" place="margin">Juſtificatio<g ref="char:EOLhyphen"/>nis formam juſtitia con<g ref="char:EOLhyphen"/>ſtare certum eſt: <hi>A Middle W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> therefore here<g ref="char:punc">▪</g> between Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>teſtant and Papiſt,</hi> deſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tur.</note> 
+               <hi>An<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>For this Advice now, which, according to my Natural Genius, I ſhould have given Mr <hi>Williams,</hi> (See 1 <hi>Pet.</hi> iii. 15.) I apprehended not prejudicial to <hi>Goſpel Truth,</hi> if his ſen<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is upheld, that is the <hi>Truth</hi> of his Book, while the Quarrel about a <hi>Word</hi> be compos'<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> It is plain, that Mr. <hi>Williams,</hi> and I, and They, hold the ſame thing; for he is no <hi>Socinia<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> but holds, Chriſt died <hi>for us</hi> in the Sence of <hi>in our ſtead;</hi> That he was our <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, impo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing a Surrogation of Chriſt's Perſon in our room, when he became a Sacrifice for us, which is as much (I ſay again) as <hi>Grotius,</hi> to whom they appeal, did intend. It is nothing there<g ref="char:EOLhyphen"/>fore, in my eſteem, for Mr. <hi>Williams</hi> to withdraw an Expreſſion in that ſence which offends, ſeeing in the <hi>Antinomian</hi> ſenſe, wherein he denies a change of <hi>Perſon,</hi> the Brethren agree <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Negative</hi> with him; and in the <hi>Orthodox</hi> ſence, which they <hi>own,</hi> Mr. <hi>Williams</hi> agrees <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Affirmative</hi> with them. It is not baſe here, but generous, and to be Victor to give way<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it being enough that they both have declared themſelves. Beſides, if the Brethren be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> earneſt to ſearch into the matter, and would order their words ſo as we might come to Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cord both in Words and Sence, I have chalked out here, from my late Book, this Accom<g ref="char:EOLhyphen"/>modation: I will allow them a <hi>change of Perſon</hi> in the Orthodox ſence of the word, ſo as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grant Chriſt did <hi>ſuſtain our Perſon</hi> in what he did and ſuffer'd; And they ſhall allow to m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that there is not a <hi>change of Perſons,</hi> ſo, as God did look on us to have done in Chriſt's Perſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> what he did, tho' he did it in our behalf; and they ſhall henceforth frame their Words a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cordingly. And that our Brethren may bend to ſome Reconciliation in this propoſal, I <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> find, ſince I wrote my <hi>Pacification,</hi> the ſame Conception in Dr <hi>Owen. We do not ſay, th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God judgeth or eſteemeth that we did and ſuffer'd in our Perſons what Chriſt did and ſuffer'd; b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> only that he did it and ſuffer'd it in our ſtead.</hi> Of Juſtif. <hi>p.</hi> 295.</p>
+            <p>As for the <hi>latter</hi> Paſſage, That <hi>the Father was never diſpleaſed with Chriſt;</hi> thus much mu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be premiſed and underſtood from what is ſaid on the <hi>former;</hi> That in the ſence he ſuſtain<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our <hi>Perſons</hi> he was <hi>made Sin for us,</hi> as the Apoſtle ſpeaks, tho' <hi>he knew no Sin,</hi> that is to be underſtood <hi>Effectivè.</hi> He was not <hi>made Sin</hi> or a <hi>Sinner formaliter,</hi> but I ſay <hi>effectivè,</hi> in re<g ref="char:EOLhyphen"/>gard to the Effect of Sin, that is the bearing our Puniſhment, as before. Our Saviour there<g ref="char:EOLhyphen"/>fore may be conſider'd as bearing <hi>our Perſons</hi> (according to theſe Brethren) and ſo our Sin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or in his <hi>own Perſon.</hi> God could not be diſpleaſed with him in the one, no, nor in the oth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Conſideration, becauſe it was of his own appointment. God, in the Puniſhment <hi>on</hi> his Son (not <hi>of</hi> his Son) was diſpleaſed with the <hi>Sin</hi> and <hi>Sinners</hi> whoſe Perſon he bare, but he was never diſpleaſed with the <hi>Perſon of his Son,</hi> and much leſs now, when he was fulfilling th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Command of his Father, in <hi>giving himſelf for us an Offering and Sacrifice of a ſweet-ſmellin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Savour unto him.</hi> He muſt have a witty Invention, I think, that can find any thing to ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> himſelf differ from Mr. <hi>Williams</hi> in this Point. And what, when <hi>they</hi> and <hi>he</hi> agree in <hi>Senc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> would our Brethren have Mr. <hi>Williams</hi> retract theſe <hi>Words?</hi> Nay, it is <hi>They</hi> muſt withdraw here, Or they may bid him next go contradict the Voice of God from Heaven, <hi>This is my be<g ref="char:EOLhyphen"/>loved Son, in whom I am well pleaſed.</hi>
+            </p>
+            <p>There is one thing yet I cannot but take notice of, that in their late written Paper, unto which I have alluded all this while, as likewiſe in their printed <hi>Agreement</hi> (1692) our Bre<g ref="char:EOLhyphen"/>thren do declare their <hi>Approbation</hi> of the Doctrinal Articles of the Church of <hi>England,</hi> the <hi>Aſſembly's</hi> Confeſſion of Faith, and that at the <hi>Savoy,</hi> as the Rule of their Preaching, ſo as to be liable to Rebuke if they preach otherwiſe; which whether they underſtand disjunctive<g ref="char:EOLhyphen"/>ly or conjunctively, (as in the <hi>Paper,</hi> or in that <hi>Agreement</hi>) it being more than any Authority call'd them to, I would have them lay it to Heart, and think, Whether if this Impoſition which they have impoſed on themſelves were impoſed on them by the Biſhops, they would not ſome of them ſtick at it? For my part, I declare, that a Subſcription to the 36 Doctri<g ref="char:EOLhyphen"/>nal Articles, without liberty of Explication, is the hardeſt part of Conformity; and if there ſhould be a <hi>Comprehenſion</hi> with this Injunction, I ſhould repent I had ſought it. But as for our ſelves, why any one that can chuſe, ſhould bind himſelf up to any Rule of his Preaching but the Bible, I ſee no reaſon, and muſt propoſe rather to our Brethren on both ſides, That ſee<g ref="char:EOLhyphen"/>ing their Union is broken at preſent, they begin a new one, not in drawing certain <hi>Theſes</hi> in ſuch a Latitude of Words, which All may ſubſcribe, this being no <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> when the Tongue is only <hi>One,</hi> and the Mind <hi>cloven,</hi> (as I have formerly expreſs'd myſelf) but in forbearing and bearing with one-another as to all things but what is of neceſſity to Salvation. <hi>In neceſſa<g ref="char:EOLhyphen"/>riis <g ref="char:V">Ʋ</g>nitas, in non neceſſariis Libertas.</hi> This I ſhall inculcate while I am</p>
+            <closer>
+               <signed>Iohn Humfrey.</signed>
+            </closer>
+            <postscript>
+               <p>☞ This Half-ſheet is taken out of half a dozen Sheets I have writ ſince my Book of <hi>Pacification,</hi> wherein I have ſomething more to ſay, in regard to my <hi>Middle Way,</hi> than I had. A <hi>Book</hi> will not be bought nor read, when a <hi>Pa<g ref="char:EOLhyphen"/>per</hi> will. At this Conjuncture this Paper I think more needful; It may ſet ſome Thoughts to work in the Peaceable, and ſhall have ſuch Effect as God gives it. In my <hi>Pacification</hi> I pray the Reader that hath it, to mend a Fault of the Printer, and to inſert the word <hi>[Not] p. 35. l. 20.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, <hi>Sep. 1ſt.</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
